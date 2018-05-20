@@ -1,0 +1,201 @@
+body {
+    background-image: url("photos/rectangle-copy.png");
+    background-size: cover;
+    font-family: 'Life Savers', cursive;
+}
+
+.white-background {
+    background-color: white;
+    padding: 20px;
+    padding-bottom: 40px;
+}
+
+.white {
+    color: whitesmoke;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.5em;
+    color: whitesmoke;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.head {
+    font-size: 1.5em;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+
+.nav-li {
+    list-style: none;
+    display: inline;
+    margin: 2.5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav-a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+#eggimg {
+    margin-top: 150px;
+    margin-bottom: 50px;
+    display: block;
+}
+
+#sloganimg {
+    margin-bottom: 50px;
+}
+
+.slogan {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: whitesmoke;
+    font-size: 2em;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+.flexsection {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 1.2em;
+}
+
+.prof {
+    padding: 50px;
+}
+
+.big {
+    font-size: 2em;
+}
+
+.li-wide {
+    width: 250px;
+    margin-left: 20px;
+}
+
+.prof-li {
+    color: hotpink;
+    margin: 4px;
+}
+
+.black {
+    color: black;
+}
+
+.proj-h1 {
+    text-align: center;
+    margin: 50px;
+}
+
+.project {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.project-section {
+    border-radius: 25px;
+    background-color: whitesmoke;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+.project {
+    padding-bottom: 70px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.center-section {
+    display: flex;
+    justify-content: center;
+}
+
+.ex-ul {
+    width: 720px;
+}
+
+.ex-li {
+    font-size: 1.25em;
+    margin: 20px;
+}
+
+.skill-photo {
+    width: 75px;
+    height: 75px;
+    margin: 10px;
+}
+
+#skills {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+#menu {
+    margin: 15px;
+}
+
+#flexfit {
+    width: 550px;
+    text-align: center;
+}
+
+.contact-p {
+    font-size: 1.2em;
+    margin: 10px;
+}
+
+.contact-a {
+    margin: 10px;
+}
+
+#contact {
+    text-align: center;
+}
+
+#contact-links{
+    margin-top: 40px;
+}
+
+#contact-info {
+    margin-top: 40px;
+}
+
+.contact-email {
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    text-align: center;
+}
+
+.project-img {
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+
+.proj-text {
+    padding-left: 5px;
+}
