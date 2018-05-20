@@ -78,24 +78,21 @@ nav {
 
 .prof {
     padding: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.profile-text {
+    margin-left: 30px;
+    font-size: 1.1em;
+    width: 275px;
+    line-height: 85%;
 }
 
 .big {
     font-size: 2em;
-}
-
-.li-wide {
-    width: 250px;
-    margin-left: 20px;
-}
-
-.prof-li {
-    color: hotpink;
-    margin: 4px;
-}
-
-.black {
-    color: black;
 }
 
 .proj-h1 {
